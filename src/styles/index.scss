@@ -1,3 +1,17 @@
+/*
+Requisitos:
+    [x]redefinir as margens padrão do navegador
+    []a largura do cartão 200pxinclui a borda
+    []usar imagens de src/images
+    []alterar estilos de link em:hover
+    []adicionar data-qa="card"atributo ao bloco do cartão
+    []adicionar data-qa="hover"atributo ao linkBUY
+    []background-image: url()deve ser relativo a index.scss. Portanto, deve começar com ../images.
+    []Reescreva o starsbloco da tarefa Stars com SCSS e use-o
+    []Encontre a fonte necessária no Google Fonts e use.
+    []Observação importante : nesta tarefa, você pode vincular *.scssarquivos diretamente em <link>tags HTML usando hrefatributos. Isso é possível porque usamos a biblioteca Parcel para agrupar o código-fonte da sua solução.
+*/
+
 body {
   margin: 0;
 }
